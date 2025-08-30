@@ -1,3 +1,3 @@
 🏦 Bank Application API
 
-A simple Bank Application REST API built using Spring Boot, Spring MVC, and Spring Data JPA (Hibernate). This project demonstrates CRUD operations on bank accounts with features like deposit, withdrawal, and exception handling using a clean layered architecture.
+The Bank Application is a RESTful service that provides basic banking functionalities such as creating accounts, depositing and withdrawing money, and deleting accounts. It uses Spring Boot to build the backend REST APIs. The application is designed for simplicity and can be extended to include more advanced banking features.
